@@ -47,8 +47,7 @@ The dataset contains region-wise unemployment statistics in India during 2020, i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CodeAlpha_Unemployment_Analysis_with_Python.git
-   cd CodeAlpha_Unemployment_Analysis_with_Python
+   git clone https://github.com/alibelhrak/CodeAlpha_Unemployment_Analysis_with_Python.git
 ---
 Install the required libraries (optional if using Jupyter):
  ```bash
